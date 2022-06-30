@@ -87,7 +87,7 @@ header {
 }
 
 #row-frase {
-  background-image: url('imagenes/texture.webp');
+  background-image: url(imagenes/texture.webp);
   background-position: center;
   padding-top: 100px ;
   padding-bottom: 100px ;
