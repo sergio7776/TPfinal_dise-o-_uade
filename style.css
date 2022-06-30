@@ -7,7 +7,7 @@ html{
 }
 
 header {
-  background-image: url(../Sitio-OnePage/imagenes/portadafinalx.png);
+  background-image: url(imagenes/portadafinalx.png);
   background-repeat: no-repeat;
   background-size:cover ;
   height: 650px;
@@ -55,7 +55,7 @@ header {
 }
 
 .bg{
-  background-image: url(..//Sitio-OnePage/imagenes/texture.webp);
+  background-image: url(imagenes/texture.webp);
 }
 
 #row-producto {
